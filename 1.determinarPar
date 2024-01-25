@@ -1,0 +1,9 @@
+Algoritmo determinarPar
+	Escribir 'Ingrese el numero'
+	Leer num
+	Si numero MOD 2==0 Entonces
+		Escribir 'Numero es par'
+	SiNo
+		Escribir 'Numero es impar'
+	FinSi
+FinAlgoritmo
